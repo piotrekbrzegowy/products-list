@@ -16,6 +16,11 @@ You can see Products List - SPA here [Products List - SPA](https://piotrekbrzego
 - Redux-saga
 - Axios
 - Material UI
+
+# Repository
+
+To clone the repository use: git clone https://github.com/piotrekbrzegowy/products-list.git
+
 ## Available Scripts
 
 In the project directory, you can run:
