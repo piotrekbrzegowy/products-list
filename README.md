@@ -1,7 +1,18 @@
-# Getting Started with Create React App
+# Products List - Single Page Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+You can see Products List - SPA here [Products List - SPA](https://piotrekbrzegowy.github.io/products-list/).
 
+<img src="./public/products-list-animation.gif" alt="products-list-animation">
+
+# Used technologies
+
+- React
+- Typescript
+- Redux
+- Redux-toolkit
+- Redux-saga
+- Axios
+- Material UI
 ## Available Scripts
 
 In the project directory, you can run:
